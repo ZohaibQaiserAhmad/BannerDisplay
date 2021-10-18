@@ -18,7 +18,7 @@ App is able to do the following tasks:
   </ul>
 
 
-An example of what can be done might look something like this:
+Mockup used for display:
 ![sample image](banner_sample_image.png)
 
 
