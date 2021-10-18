@@ -21,4 +21,4 @@ App is able to do the following tasks:
 An example of what can be done might look something like this:
 ![sample image](banner_sample_image.png)
 
-### If you have any questions, please reach out!
+
