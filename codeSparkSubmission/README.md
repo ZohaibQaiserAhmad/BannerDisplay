@@ -9,7 +9,7 @@ All source files are located in the /src folder. Front-end component files are l
 ## Scenario
 The purpose of this app is to display a collection of banner objects and allow a user to add, update, or delete from that collection. How you choose to do that is up to you. The setup for the mock data and the API is in `server.js`. The setup for the client is in /components/App.js.
 
-At a minimum the app should be able to run and do the following tasks:
+App is able to do the following tasks:
   <ul>
   <li>fetch and display all the banner objects</li>
   <li>ability to add a new banner object</li>
@@ -17,8 +17,6 @@ At a minimum the app should be able to run and do the following tasks:
   <li>ability to remove an existing banner object</li>
   </ul>
 
-
-It is entirely up to you how you want to display and set up this app. We've included Material-UI as one of the dependencies but you are not required to use it. Feel free to mix and match and change the code to suit how you would like it.  
 
 An example of what can be done might look something like this:
 ![sample image](banner_sample_image.png)
