@@ -17,10 +17,6 @@ At a minimum the app should be able to run and do the following tasks:
   <li>ability to remove an existing banner object</li>
   </ul>
 
-Bonus points if the app also:
-  <ul>
-  <li>alerts the user if they were successful/unsuccessful in adding/editing/deleting</li>
-  </ul>
 
 It is entirely up to you how you want to display and set up this app. We've included Material-UI as one of the dependencies but you are not required to use it. Feel free to mix and match and change the code to suit how you would like it.  
 
