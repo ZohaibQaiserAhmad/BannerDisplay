@@ -1,6 +1,6 @@
 # codeSpark Sample Banner App
 
-This app was created using create-react-app for the front-end and Mirage JS for mocking out the API. Although you are welcome to use any framework or library to complete this task, we have provided this basic structure as a starting point should you wish to use it. 
+This app was created using create-react-app for the front-end and Mirage JS for mocking out the API.
 
 To run this app, you will need to install the dependencies, then start the app using either `npm start` or `yarn start`.
 
